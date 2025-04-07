@@ -1,5 +1,7 @@
 # C Estudio
 
+Fork de MCXipi/c-estudio
+
 Ejercicios resueltos y algunos ejemplos de "El Lenguaje de Programación C" de Dennis Ritchie y Brian Kernighan.
 
 ## ¿Qué es este repositorio?
